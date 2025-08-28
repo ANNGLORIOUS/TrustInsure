@@ -1,0 +1,17 @@
+africastalking==2.0
+asgiref==3.8.1
+backports.zoneinfo==0.2.1
+certifi==2025.8.3
+charset-normalizer==3.4.3
+Django==4.2.23
+django-cors-headers==4.4.0
+djangorestframework==3.15.2
+idna==3.10
+psycopg2-binary==2.9.10
+PyYAML==6.0.2
+requests==2.32.4
+responses==0.25.8
+schema==0.7.7
+sqlparse==0.5.3
+typing_extensions==4.13.2
+urllib3==2.2.3
